@@ -1,0 +1,26 @@
+footer {
+    background-color:lemonchiffon
+    padding: 20px 10px;
+}
+
+footer.container {
+    min-height: auto;
+    
+}
+
+footer.container .inside {
+    padding: var(--mob-padding);
+}
+
+.social-icons {
+    margin: 30px;
+
+   justify-content: center;
+
+    
+}
+
+.social-icons a {
+  
+    
+}
